@@ -1,1 +1,1 @@
-# manage_store-main_AAG
+# manage_store
